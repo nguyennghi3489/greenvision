@@ -1,8 +1,12 @@
 body {
+<<<<<<< HEAD
   height: 100%;
   margin: 0 170px 0 170px;
   background-color: lightgreen;
   font-family: 'Montserrat', sans-serif;
+=======
+  background: white;
+>>>>>>> 006585468eabcc3693c1945e1e8b4fee2bf422e7
 }
 
 .header {
